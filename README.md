@@ -1,2 +1,2 @@
 # microservices-class
-I like sushi and tacos! 
+Favorite foods: Tacos and sushi
